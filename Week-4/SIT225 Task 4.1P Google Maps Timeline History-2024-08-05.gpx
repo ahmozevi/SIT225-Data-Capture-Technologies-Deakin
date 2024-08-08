@@ -1,0 +1,86 @@
+<?xml version="1.0" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="KML2GPX.COM" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+    <metadata>
+        <name><![CDATA[Location history from 2024-08-05 to 2024-08-05]]></name>
+        <desc><![CDATA[]]></desc>
+                </metadata>
+
+                                                                                
+                <wpt lat="-37.9134725" lon="145.3226488">
+                                                            <ele>0</ele>
+                    <name><![CDATA[Home (71 Hume St)]]></name>
+                    <cmt><![CDATA[Building from 2024-08-04T09:15:56.000Z to 2024-08-05T04:23:19.000Z. Distance 0m]]></cmt>
+                    <desc><![CDATA[Building from 2024-08-04T09:15:56.000Z to 2024-08-05T04:23:19.000Z. Distance 0m]]></desc>
+                </wpt>
+                                                                                                                            
+                <wpt lat="-37.9018981" lon="145.3301557">
+                                                            <ele>0</ele>
+                    <name><![CDATA[7-Eleven]]></name>
+                    <cmt><![CDATA[Petrol Station from 2024-08-05T04:26:17.000Z to 2024-08-05T04:37:26.000Z. Distance 0m]]></cmt>
+                    <desc><![CDATA[Petrol Station from 2024-08-05T04:26:17.000Z to 2024-08-05T04:37:26.000Z. Distance 0m]]></desc>
+                </wpt>
+                                                                                                                            
+                <wpt lat="-37.9134725" lon="145.3226488">
+                                                            <ele>0</ele>
+                    <name><![CDATA[Home (71 Hume St)]]></name>
+                    <cmt><![CDATA[Building from 2024-08-05T04:41:27.000Z to 2024-08-06T02:02:07.000Z. Distance 0m]]></cmt>
+                    <desc><![CDATA[Building from 2024-08-05T04:41:27.000Z to 2024-08-06T02:02:07.000Z. Distance 0m]]></desc>
+                </wpt>
+                                                            
+                                                                                                    
+                <trk>
+                    <name><![CDATA[ Location history from 2024-08-05 to 2024-08-05 _Driving]]></name>
+                    <desc><![CDATA[Driving from 2024-08-05T04:23:19.000Z to 2024-08-05T04:26:17.000Z. Distance 1712m]]></desc>
+                    <number>1</number>
+                    <trkseg>
+                                                                                                                                                                                                <trkpt lat="-37.9134725" lon="145.3226488">
+                                                                                                            <ele>0</ele>
+                                    <name>1</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="-37.9134725" lon="145.3226488">
+                                                                                                            <ele>0</ele>
+                                    <name>2</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="-37.9135029" lon="145.3225817">
+                                                                                                            <ele>0</ele>
+                                    <name>3</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="-37.9146855" lon="145.3241245">
+                                                                                                            <ele>0</ele>
+                                    <name>4</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="-37.9018981" lon="145.3301557">
+                                                                                                            <ele>0</ele>
+                                    <name>5</name>
+                                </trkpt>
+                                                                                                            
+                    </trkseg>
+                </trk>
+                                                                                                                                            
+                <trk>
+                    <name><![CDATA[ Location history from 2024-08-05 to 2024-08-05 _Driving]]></name>
+                    <desc><![CDATA[Driving from 2024-08-05T04:37:26.000Z to 2024-08-05T04:41:27.000Z. Distance 1445m]]></desc>
+                    <number>2</number>
+                    <trkseg>
+                                                                                                                                                                                                <trkpt lat="-37.9018981" lon="145.3301557">
+                                                                                                            <ele>0</ele>
+                                    <name>1</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="-37.9031195" lon="145.329378">
+                                                                                                            <ele>0</ele>
+                                    <name>2</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="-37.9134725" lon="145.3226488">
+                                                                                                            <ele>0</ele>
+                                    <name>3</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="-37.9134725" lon="145.3226488">
+                                                                                                            <ele>0</ele>
+                                    <name>4</name>
+                                </trkpt>
+                                                                                                            
+                    </trkseg>
+                </trk>
+                                                            
+    
+</gpx>
